@@ -1,0 +1,103 @@
+html
+{
+	height: 100%
+}
+body
+{
+	font-family: Ubuntu;
+	color: lightgray;
+	background: linear-gradient(black, red);
+	background: -moz-linear-gradient(black, red);
+	background: -o-linear-gradient(black, red);
+	background: -webkit-linear-gradient(black, red);
+}
+h1
+{
+	text-align: center;
+}
+#score,#finalscore
+{
+	float: right;
+	margin-right: 50px;
+	font-size: 200%;
+	opacity: 0.7;
+	color: lightgray;	
+}
+.game
+{
+	border-radius: 10px;
+	width: 368px;
+	height: 368px;
+	background-color: lightgray;
+	border: 30px solid;
+	border-color: #FFA700;
+	opacity: 0.7;
+	margin-left: 430px;
+	margin-top: 100px;
+}
+.box
+{
+	width: 77px;
+	height: 77px;
+	background-color: lightgray;
+	border: 6px solid gray;
+	float:left;
+	color: black;
+	text-align: center;
+	line-height: 77px;
+	font-family: Ubuntu;
+	font-size: 200%;
+}
+.box-topleft
+{
+	border-top: 12px solid gray;
+	border-left: 12px solid gray;
+}
+.box-topright
+{
+	border-top: 12px solid gray;
+	border-right: 12px solid gray;
+}
+.box-bottomleft
+{
+	border-bottom: 12px solid gray;
+	border-left: 12px solid gray;
+}
+.box-bottomright
+{
+	border-bottom: 12px solid gray;
+	border-right: 12px solid gray;
+}
+.box-left
+{
+	border-left: 12px solid gray;
+}
+.box-right
+{
+	border-right: 12px solid gray;
+}
+.box-top
+{
+	border-top: 12px solid gray;
+}
+.box-bottom
+{
+	border-bottom: 12px solid gray;
+}
+.gameover
+{
+	border-radius: 10px;
+	width: 368px;
+	height: 368px;
+	background-color: lightgray;
+	opacity: 0.7;
+	margin-left: 430px;
+	margin-top: 100px;
+	border: 30px solid;
+	border-color: #FFA700;
+	font-family: Ubuntu;
+	font-size: 300%;
+	line-height: 368px;
+	color: black;
+	text-align: center;
+}
