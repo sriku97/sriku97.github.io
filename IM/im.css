@@ -1,0 +1,165 @@
+body
+{
+	background-image: url('shining.png');
+	background-repeat: no-repeat;
+}
+
+.navbar
+{
+	min-height: 75px;
+}
+
+.navbar-header
+{
+	margin-top: -5px;
+}
+
+.rt
+{
+	margin-right: 10px;
+}
+.container-fluid
+{
+	margin-top: 15px;
+	display: inline-block;
+}
+#a1
+{
+	position: absolute;
+	margin-left: 320px;
+	margin-top: 130px;
+	size: 70%;
+}
+
+#a2
+{
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 250px;
+}
+
+#a3
+{
+	position: absolute;
+	margin-left: 140px;
+	margin-top: 400px;
+}
+
+#a4
+{
+	position: absolute;
+	margin-left: 1240px;
+	margin-top: 450px;
+}
+
+#a5
+{
+	position: absolute;
+	margin-left: 1075px;
+	margin-top: 380px;
+}
+
+#a6
+{
+	position: absolute;
+	margin-left: 670px;
+	margin-top: 450px;
+}
+
+#a7
+{
+	position: absolute;
+	margin-left: 630px;
+	margin-top: 70px;
+}
+
+#a8
+{
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 250px;
+}
+
+#a9
+{
+	position: absolute;
+	margin-left: 140px;
+	margin-top: 70px;
+}
+
+#a10
+{
+	position: absolute;
+	margin-left: 630px;
+	margin-top: 70px;
+}
+
+#a11
+{
+	position: absolute;
+	margin-left: 670px;
+	margin-top: 450px;
+}
+
+#a12
+{
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 250px;
+}
+
+#a13
+{
+	position: absolute;
+	margin-left: 140px;
+	margin-top: 70px;
+}
+
+#a14
+{
+	position: absolute;
+	margin-left: 140px;
+	margin-top: 400px;
+}
+
+#a15
+{
+	position: absolute;
+	margin-left: 420px;
+	margin-top: 250px;
+}
+
+#a16
+{
+	position: absolute;
+	margin-left: 670px;
+	margin-top: 450px;
+}
+
+#a17
+{
+	position: absolute;
+	margin-left: 905px;
+	margin-top: 450px;
+}
+
+#a18
+{
+	position: absolute;
+	margin-left: 420px;
+	margin-top: 250px;
+}
+
+#a19
+{
+	position: absolute;
+	margin-left: 670px;
+	margin-top: 320px;
+}
+
+#a20
+{
+	position: absolute;
+	margin-left: 670px;
+	margin-top: 450px;
+}
