@@ -2,6 +2,7 @@ var a = 1;
 $( document ).ready(function() {
     $("#myModal").modal();
     $("#myModal").on('hidden.bs.modal', function () {
+  		$(this).removeData('bs.modal');
         $('#a'+a).popover('toggle');
 		
 		$('.next').click(function(){
