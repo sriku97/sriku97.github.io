@@ -1,0 +1,29 @@
+body
+{
+	background-color: black;
+}
+
+h1
+{
+	font-family: 'Garamond';
+	color: yellow;
+	text-align: center;
+}
+
+a
+{
+	color: yellow;
+}
+
+p
+{
+	padding-top: 100px;
+	color: red;
+	font-family: 'Calibri';
+	font-size: 20px;
+}
+
+.container
+{
+	padding-top: 70px;
+}
